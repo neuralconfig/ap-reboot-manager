@@ -1,6 +1,6 @@
 # RUCKUS One AP Reboot Manager
 
-A powerful, production-ready tool for managing Access Point reboots across RUCKUS One deployments. Safely reboot hundreds or thousands of APs with built-in safety features, progress tracking, and resume capability.
+A tool for managing Access Point reboots across RUCKUS One deployments. Safely reboot hundreds or thousands of APs with built-in safety features, progress tracking, and resume capability.
 
 ## Features
 
